@@ -1,0 +1,8 @@
+digraph
+{
+	index_0 [label ="50"];
+	index_1 [label ="-5"];
+	index_2 [label ="44"];
+	index_0 -> index_1;
+	index_0 -> index_2;
+}
